@@ -7,8 +7,12 @@
         "id": "6ac523b2128c3848",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Species/Kwerdan.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Species/Kwerdan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,7 @@
     "collapsed": true
   },
   "active": "6ac523b2128c3848",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Species/Kwerdan.md"
+  ]
 }
