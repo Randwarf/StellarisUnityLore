@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Kwerdan.md",
+            "file": "Kwerdan elders.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Kwerdan.md",
+                "file": "Kwerdan elders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
+    "Kwerdan elders.md",
     "Species/Kwerdan.md"
   ]
 }
