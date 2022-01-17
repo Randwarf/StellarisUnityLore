@@ -1,1 +1,0 @@
-Kwerdans reach the status of eldership after reaching a child bearing age. This usually happens in their 80s. In comparison, kwerdan younglins are considered mature and begin working after they become 3 years old.

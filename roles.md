@@ -1,0 +1,6 @@
+- [[Water-bearers]] - responsible for digging up water wells and soaking up the water for further distribution;
+- [[Desert-weavers]] - dedicated scouts, who would seek potential oases for tribes to resettle after water supplies would begin to dry out;
+- [[Night-watchers]] - elite position for trappers and guards, who would stay up during the long nights and protect the hibernating tribe from predators. In extreme cases, night-watchers would also substitute for warriors during rare, but not unprecedented, tribal wars. Over the years, different guilds of night-watchers would arise:
+	- [[Glass-shapers]] - this role became reality soon after fire was discovered. At first fire was used as a tool to deter predators, but after finding melted sand in the used fireplaces, trappers began creating glass tools, weapons and jewelry. This role would later refer to craftsmen of any sort
+	- Elite warriors - <...>
+- Etc.
