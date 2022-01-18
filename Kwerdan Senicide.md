@@ -1,0 +1,1 @@
+Kwerdan senicide - an act of killing a mature kwerdan elder. It is considered one of the most horrible crimes a kwerdan could commit. That largely stems from the fact, that only elders are capable of breeding, thus killing one also prevents an entire generation of younglings from being born. 
