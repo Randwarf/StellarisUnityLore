@@ -1,1 +1,1 @@
-Wandering elwould find it difficult to join another tribe or find a potential mating partner. Instead they would usually be treated as 
+Elders, who were marked and banished from their tribes, are refered as wandering elders. Elder banishment in general is an extreme practice only performed in edge cases. And although these individuals would find it difficult to reintegrate into another tribe, they would still be treated as untouchable - it is accustomed to feed a wandering elder. In return, they would 
