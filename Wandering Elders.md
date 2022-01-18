@@ -1,0 +1,1 @@
+Wandering elwould find it difficult to join another tribe or find a potential mating partner. Instead they would usually be treated as 

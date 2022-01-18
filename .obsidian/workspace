@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Elderships.md",
+            "file": "Wandering Elders.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Elderships.md",
+                "file": "Wandering Elders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
+    "Wandering Elders.md",
     "Kwerdan Elderships.md",
     "roles.md",
     "Species/Kwerdan.md",

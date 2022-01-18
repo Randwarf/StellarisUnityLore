@@ -3,9 +3,9 @@ First kwerdan tribes were mainly elderships, due to the culturally universal aut
 
 # Society
 ## Elders
-The seat of a rulling elder was given to anyone, who managed to reach a child-bearing age, although ostrasized elders would often be marked and banished. These [[wandering elders]] would often join other tribes or create one independantly.
+The seat of a rulling elder was given to anyone, who managed to reach a child-bearing age, although [[Wandering Elders|ostrasized elders]] would often be marked and banished.
 ## Roles
-
+Traditional roles, represented in an average tribe, includes, but were not limited to the following:
 - Water-bearers - responsible for digging up water wells and soaking up the water for further distribution;
 - Desert-weavers - dedicated scouts, who would seek potential oases for tribes to resettle after water supplies would begin to dry out;
 - Night-watchers - elite position for trappers and guards, who would stay up during the long nights and protect the hibernating tribe from predators. In extreme cases, night-watchers would also substitute for warriors during rare, but not unprecedented, tribal wars. Over the years, different guilds of night-watchers would arise:
