@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wandering Elders.md",
+            "file": "Kwerdan Senicide.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wandering Elders.md",
+                "file": "Kwerdan Senicide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,11 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
-    "Wandering Elders.md",
+    "Kwerdan Senicide.md",
     "Kwerdan Elderships.md",
-    "roles.md",
     "Species/Kwerdan.md",
+    "roles.md",
+    "Wandering Elders.md",
     "Kwerdan elders.md",
     "Night-watchers.md"
   ]

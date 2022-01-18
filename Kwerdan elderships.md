@@ -4,6 +4,8 @@ First kwerdan tribes were mainly elderships, due to the culturally universal aut
 # Society
 ## Elders
 The seat of a rulling elder was given to anyone, who managed to reach a child-bearing age, although [[Wandering Elders|ostrasized elders]] would often be marked and banished.
+
+Elders were usually highly venerated, thus [[Kwerdan Senicide|the act of senicide]] became one of the most horrible crimes a kwerdan could commit.
 ## Roles
 Traditional roles, represented in an average tribe, includes, but were not limited to the following:
 - Water-bearers - responsible for digging up water wells and soaking up the water for further distribution;
