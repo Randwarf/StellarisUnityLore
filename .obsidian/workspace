@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan elderships.md",
+            "file": "Kwerdan Elderships.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan elderships.md",
+                "file": "Kwerdan Elderships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
-    "Kwerdan elderships.md",
-    "Species/Kwerdan.md",
+    "Kwerdan Elderships.md",
     "roles.md",
+    "Species/Kwerdan.md",
     "Kwerdan elders.md",
     "Night-watchers.md"
   ]

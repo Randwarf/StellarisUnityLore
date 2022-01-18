@@ -11,5 +11,5 @@ Kwerdans
 
 <<<Less history, more biology up here>>>
 
-Most prominant Kwerdan civilisation began accidentally - long child-raising period combined with multiple consecutive mating seasons made elders settle down for longer than they were used to. This, of course, led to bigger than usual herds, thus [[Kwerdan elderships]] became ubiquitous. 
+Most prominant Kwerdan civilisation began accidentally - long child-raising period combined with multiple consecutive mating seasons made elders settle down for longer than they were used to. This, of course, led to bigger than usual herds, thus [[Kwerdan Elderships]] became ubiquitous. 
 
