@@ -1,4 +1,4 @@
-Kwerdans
+Kwerdans are species, native to the planet of [[Ne’kuma]]
 - Bulbs swell up with water
 - Monogender/Agender (they/them)
 - Sedentary
