@@ -3,5 +3,5 @@
 # Origins
 Republic of [[Desert-Weavers]] began as a humble nameless trade guild. It made little to no profit during the first few generations of it's existance, but the idea of banding together into one centralised guild was deemed vital by many independant desert-weavers.
 
-One of the biggest changes occured during steam age. Global south had scarce coal supplies 
+One of the most important events that lead to the rise of Republic of Desert-Weavers was the steam age. Global south at the time had scarce supplies of coal and were reliant on northern mines to fuel their economy. This job of transporting needed goods from foreign 
 # Algae wars
