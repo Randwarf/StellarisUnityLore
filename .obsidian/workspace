@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Kwerdan Elderships.md",
+            "file": "Kwerdan Lore/Historical Kwerdan Nations/Republic of Desert-Weavers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Kwerdan Elderships.md",
+                "file": "Kwerdan Lore/Historical Kwerdan Nations/Republic of Desert-Weavers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
-    "Kwerdan Lore/Kwerdan Elderships.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Republic of Desert-Weavers.md",
-    "Kwerdan Lore/Algae Wars.md",
-    "Kwerdan Lore/Sa'lah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
+    "Kwerdan Lore/Kwerdan Elderships.md",
+    "Kwerdan Lore/Algae Wars.md",
+    "Kwerdan Lore/Sa'lah.md",
     "Species/Kwerdan.md",
     "Ne’kuma.md",
     "Kwerdan Lore/Holy Oases.md",
