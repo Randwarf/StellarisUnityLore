@@ -4,4 +4,4 @@ In the era of sail and iron many noble lineages, such as the now-extinct Igvi-az
 
 In particularly stratified societies, such as the during the early modern period in the [[Natives of Sa'lah|Sa'lah Isles]], the noble lineages became so disconnected from the lower classes that their bulbs gained their own distinctive hues.
 
-Following the invention of fiat currency and the spread of [[Republic of Desert-Weavers| the desert weavers']] peculiar economic system the influence of the noble Elders began to wane. Indeed, nobility would enter a period of decline until the 
+Following the invention of fiat currency and the spread of [[Republic of Desert-Weavers| the desert weavers']] peculiar economic system the influence of the noble Elders began to wane. Indeed, nobility would enter a period of decline globally until the [[United Kingdom of Kal'vah#Kul-Yterd Revolution|Kul-Yterd Revolution]] in the northern city state of [[United Kingdom of Kal'vah|Kal'vah]].
