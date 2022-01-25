@@ -5,4 +5,3 @@ The United Kingdom began as a small city state in the Sufete region of the north
 
 While far from the ideal of the modern United Kwerdans, and highly variable across the continent, the peasantry enjoyed a variety of legal rights that their descendants lacked. For instance, the ability to confront their landlords in the legal arena or to ascend the social strata provided that they had proven their worth in the numerous interstate conflicts that occurred every generation.
 
-# The Nobility

@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "bb6b86b67fc56a99",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Desert-Weavers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ac523b2128c3848",
+  "active": "bb6b86b67fc56a99",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Kwerdan Lore/Desert-Weavers.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Republic of Desert-Weavers.md",
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
-    "Kwerdan Lore/Algae Wars.md",
+    "Kwerdan Lore/Historical Kwerdan Nations/Republic of Desert-Weavers.md",
+    "Kwerdan Lore/Nobility.md",
+    "Kwerdan Lore/Kwerdan Senicide.md",
     "Kwerdan Lore/Kwerdan Elderships.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
-    "Kwerdan Lore/Sa'lah.md",
     "Species/Kwerdan.md",
-    "Ne’kuma.md",
-    "Kwerdan Lore/Holy Oases.md"
+    "Kwerdan Lore/Algae Wars.md",
+    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md"
   ]
 }
