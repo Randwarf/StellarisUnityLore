@@ -6,5 +6,6 @@ The United Kingdom began as a small city state in the Sufete region of the north
 While far from the ideal of the modern United Kwerdans, and highly variable across the continent, the peasantry enjoyed a variety of legal rights that their descendants lacked. For instance, the ability to confront their landlords in the legal arena or to ascend the social strata provided that they had proven their worth in the numerous interstate conflicts that occurred every generation.
 
 # Decline of Nobility
-As trade flowed between the [[Republic of Desert-Weavers|Desert Weaving Traders]] and the many empires and kingdoms of the Sufete, cla
+As trade flowed between the [[Republic of Desert-Weavers|Desert Weaving Traders]] in the early steam age through the many empires and kingdoms of the Kwerdans, the firm social stratification became more malleable. A new class of Desert Weavers formed, traders and engineers, more able to exploit the labour of the the peasantry to their own ends than via traditional methods.
 # Kul-Yterd Revolution
+In the city state of Kal'vah the great princeling  
