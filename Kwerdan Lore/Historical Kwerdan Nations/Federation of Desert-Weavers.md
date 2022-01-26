@@ -15,6 +15,8 @@ Federation of Desert-Weavers is made up of 5 semi-autonomous states, each respec
 - Cernita
 - Iborek
 
-Each state 
+Each state has it's own overseer that is picked in democratic elections. At first only desert-weavers had the privalege of voting, although suffrage movements have made voting universal.
+
+Overseers are left to their own devices and they are free to pass any laws they see fit. This is supposed to ensure a competitive market across the federation, although a 
 
 # Algae wars
