@@ -1,5 +1,3 @@
-Elders, who were marked and banished from their tribes, are refered as wandering elders. Elder banishment in general is an extreme practice only performed in edge cases. 
+Elders, who were marked and banished from their tribes, are refered as wandering elders. Elder banishment in general is an extreme practice only performed in edge cases. And although these individuals would find it difficult to reintegrate into another tribe, they would still be treated as [[Kwerdan Senicide|untouchable]] - it is accustomed to feed a wandering elder. In return, they would share wisdom or gossip they have collected while traveling.
 
-After banishment there are usually only two paths an elder can take.
-
-And although these individuals would find it difficult to reintegrate into another tribe, they would still be treated as [[Kwerdan Senicide|untouchable]] - it is accustomed to feed a wandering elder. In return, they would share wisdom or gossip they have collected while traveling.
+Some wandering elders have been documented engaging in [[Self-Seeding]], although tribes that have emerged from such a practive would rarely last long enough.
