@@ -8,6 +8,7 @@ Kwerdans are species, native to the planet of [[Ne’kuma]]
 - Evolved a trap-making intelligence to protect themselves during the long nights.   
 - Long and expensive child-raising period.
 - The older they get, the more fertile kwerdans become.
+- Gardens of up to 10 kids, can choose to plant less if need be.
 
 <<<Less history, more biology up here>>>
 
