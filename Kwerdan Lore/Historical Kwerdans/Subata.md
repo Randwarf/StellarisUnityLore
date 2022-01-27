@@ -10,11 +10,13 @@ Shortly after joining the guild, Subata gained traction among their peers. Subat
 
 During Subata's leadership [[Steam engine]] was invented in the [[United Kingdom of Kal'vah]]. This invention quickly spread into southern kingdoms and became a staple in many [[Glass-shaper|glass-shaper]] shops. Again, another opportunity was present and Subata was quick to profit from it.
 
-Initially, steam engines in the south were ran using the traditional method of burning [[Orbican|farmed orbican stubs]]. This practice was extremely inefficient at large scale requiring many days of raising orbican younglings to an optimal size. But Subata was capable of providing a solution - contacts made in northern states proved to be quite beneficial, allowing guild to buy and transport coal southwards at cheaper rates. Subata was also able to bypass some trading restrictions by pulling strings of their former suppliers. Soon Subata became the sole supplier of coal.
+Initially, steam engines in the south were ran using the traditional method of burning [[Orbican|farmed orbican stubs]]. This practice was extremely inefficient at large scale requiring many days of raising orbican younglings to an optimal size. But Subata was capable of providing a solution - contacts made in northern states proved to be quite beneficial, allowing guild to buy and transport coal southwards at cheaper rates. 
 
-At first guild kept the price of coal minimal, making barely any profit (some sources even suggest the guild was operating on a loss). This move was deliberate - it allowed Subata to push the competition out, making the guild a monopoly. It also provided excellent conditions to build more factories, making the southern kingdoms even more 
+At first guild kept the price of coal minimal, making barely any profit (some sources even suggest the guild was operating on a loss). This move was deliberate - it allowed Subata to push the competition out, making the guild a monopoly. It also provided excellent conditions to build more factories, making the southern kingdoms even more reliable on guild coal. But the bubble had to burst.
 
 ## Baltabalian advisor
+After 
+
 ## Overseer
 
 # Retirement
