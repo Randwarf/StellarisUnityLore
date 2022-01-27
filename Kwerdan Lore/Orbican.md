@@ -1,1 +1,3 @@
-Orbicans are predators native to [[Ne’kuma]]. Their primary pray for a long time were large herbivores, including [[Kwerdan|Kwerdans]]. Orbicans are capable of breeding quite rapibly
+Orbicans are nocturnal predators native to [[Ne’kuma]]. Their primary pray for a long time were large herbivores, including [[Kwerdan|Kwerdans]]. Orbicans are capable of breeding quite rapidly and are considered invasive in some islands.
+
+Orbicans mate twice every year. They store the reproductive material of their mate in their bodies in between the mating seasons and continually fertilise their seeds. Orbicans drop these seeds along the paths they walk and don't raise their young
