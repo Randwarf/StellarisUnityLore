@@ -10,7 +10,12 @@ Shortly after joining the guild, Subata gained traction among their peers. Subat
 
 During Subata's leadership [[Steam engine]] was invented in the [[United Kingdom of Kal'vah]]. This invention quickly spread into southern kingdoms and became a staple in many [[Glass-shaper|glass-shaper]] shops. Again, another opportunity was present and Subata was quick to profit from it.
 
-Initially, steam engines in the south were ran using the traditional method of burning [[Orbican|farmed orbican stubs]], but this practice was extremely inefficient requiring many days of raising orbican younglings to an optimal size. It was Subata who began importing coal from northern mines to southern kingdoms
+Initially, steam engines in the south were ran using the traditional method of burning [[Orbican|farmed orbican stubs]]. This practice was extremely inefficient at large scale requiring many days of raising orbican younglings to an optimal size. But Subata was capable of providing a solution - contacts made in northern states proved to be quite beneficial, allowing guild to buy and transport coal southwards at cheaper rates. Subata was also able to bypass some trading restri
+
+
+
+
+Subata who began importing coal from northern mines to southern kingdoms, which lead to overall cheaper production costs.
 
 ## Baltabalian advisor
 ## Overseer
