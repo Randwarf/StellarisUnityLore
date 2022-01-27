@@ -4,4 +4,6 @@ Orbicans mate twice every year. They store the reproductive material of their ma
 
 During the long nights, orbicans gather into packs of 20 and begin hunting in order to maintain their energy levels in the dark. This has made Kwerdan lives more difficult and the rise of night-watchers was vital to protect early tribes.
 
-Somewhere in an early tribal age Kwerdans discovered fire and quickly became aware of orbican flammability. They would use predator bodies as a fuel source in huge fires meant to intimidate any passing Orbicans. These fires have also contributed to the rise of [[Glass-shaper]] caste.
+Somewhere in an early tribal age Kwerdans discovered fire and quickly became aware of orbican flammability. They would use predator bodies as a fuel source in huge fires meant to intimidate any passing Orbicans. These fires have also contributed to the rise of [[Glass-shaper]] caste. They would begin creating glass tools, which made the fight against predators easier.
+
+Once orbicans no longer presented any danger to Kwerdans, they began capturing their previous predators and breeding them for fuel.
