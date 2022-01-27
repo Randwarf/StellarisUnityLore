@@ -1,1 +1,1 @@
-Home planet to [[Kwerdan|Kwerdans]].
+Home planet to [[Kwerdan|Kwerdans]]. Days and nights here last 30 solar days each.
