@@ -5,3 +5,7 @@ Subata was grown in the kingdom of Baltabal. Their parents were lowly shopkeeper
 Subata, being one of the most thrifty seedlings in their garden, decided to buy up the carts of their siblings. Not everyone agreed to this short-sighted deal, but nevertheless, Subata left the castle town with 5 carts in possesion. Their next step was to venture north, where they turned a 200% profit on their goods. Multiple trips later Subata managed to forge countless trade deals, forge contacts in [[United Kingdom of Kal'vah]], and increase their chain of supply. This is also when Subata joined [[Federation of Desert-Weavers|local trader guild]].
 
 # Federation of Desert-Weavers
+## G
+Shortly after joining the guild, Subata gained traction among their peers. Subata was seen as an influencial trade partner with plenty of future potential.
+
+# Retirement
