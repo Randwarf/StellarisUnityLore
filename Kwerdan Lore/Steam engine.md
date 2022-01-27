@@ -1,0 +1,1 @@
+Steam engine was invented in [[United Kingdom of Kal'vah]]. It is mainly ran by coal, although [[Orbican|alternative fuel sources]] have been used by southern kingdoms at the beginning.

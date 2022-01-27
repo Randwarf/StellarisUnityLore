@@ -8,7 +8,7 @@ Subata, being one of the most thrifty seedlings in their garden, decided to buy 
 ## Trade guild
 Shortly after joining the guild, Subata gained traction among their peers. Subata was seen as an influential trade partner with plenty of future potential. That helped them climb the guild ranks and soon was elected to lead the guild itself. This marked a new age for the guild, since for the first time in it's existence the guild was being led by a relatively young Kwerdan.
 
-During Subata's leadership steam engine was invented in the [[United Kingdom of Kal'vah]]. This invention quickly spread into southern kingdoms and became a staple in many glass-shaper shops. Again, another opportunity was present and Subata was quick to profit from it.
+During Subata's leadership [[Steam engine]] was invented in the [[United Kingdom of Kal'vah]]. This invention quickly spread into southern kingdoms and became a staple in many glass-shaper shops. Again, another opportunity was present and Subata was quick to profit from it.
 
 Initially, steam engines in the south were ran using the traditional method of burning [[Orbican|farmed orbican stubs]], but this practice was extremely inefficient 
 
