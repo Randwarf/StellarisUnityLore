@@ -15,11 +15,11 @@ Initially, steam engines in the south were ran using the traditional method of b
 At first guild kept the price of coal minimal, making barely any profit (some sources even suggest the guild was operating on a loss). This move was deliberate - it allowed Subata to push the competition out, making the guild a monopoly. It also provided excellent conditions to build more factories, making the southern kingdoms even more reliable on guild coal. But the bubble had to burst.
 
 ## Baltabalian advisor
-After Subata ensured that south was hooked up on their coal supply, guild began cranking up the prices. Some independent desert-weavers did try to provide cheaper coal, but the competition was quickly *silenced*. Southern kings were infuriated, but they did not dare to declare a war in fear of ruining the economy. Subata, knowing the influence they held, strook a deal with the kings instead - kings would receive coal at a more competitive price in exchange for employing desert-weaver advisors.
+After Subata ensured that south was hooked up on their coal supply, guild began cranking up the prices. Some independent desert-weavers did try to provide cheaper coal, but the competition was quickly *silenced*. Southern kings were infuriated, but they did not dare to declare a war in fear of ruining the economy. Subata, knowing the influence they held, stroke a deal with the kings instead - kings would receive coal at a more competitive price in exchange for employing desert-weaver advisors.
 
 Kings manipulated; laws for traders;
 ## Overseer
 Thirst for power; mercenary attack; Subata takes over Baltabal as an overseer; begins prospecting for coal; ensure the state is self-sustaining
 
 # Retirement
-After 12 terms in office, Subata decides to retire and cash out their pension funds. The sum they have amassed over the years is enough to last for generations, thus Subata begins bringing out massive gardens of seedlings. After his death he is known for  
+After 12 terms in office, Subata decides to retire and cash out their pension funds. The sum they have amassed over the years is enough to last for generations, thus Subata begins bringing out massive gardens of seedlings. After their death Subata is still held in high regard and his lineage spread widely across the globe. 
