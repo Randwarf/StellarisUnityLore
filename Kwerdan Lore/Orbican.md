@@ -1,0 +1,1 @@
+Orbicans are predators native to [[Ne’kuma]]. Their primary pray for a long time were large herbivores, including [[Kwerdan|Kwerdans]]. Orbicans are capable of breeding quite rapibly
