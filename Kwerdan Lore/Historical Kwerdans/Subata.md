@@ -15,7 +15,7 @@ Initially, steam engines in the south were ran using the traditional method of b
 At first guild kept the price of coal minimal, making barely any profit (some sources even suggest the guild was operating on a loss). This move was deliberate - it allowed Subata to push the competition out, making the guild a monopoly. It also provided excellent conditions to build more factories, making the southern kingdoms even more reliable on guild coal. But the bubble had to burst.
 
 ## Baltabalian advisor
-After Subata ensured that south was hooked up on their coal supply, they began cranking up the prices. Some independent desert-weavers did try to provide cheaper coal, but 
+After Subata ensured that south was hooked up on their coal supply, they began cranking up the prices. Some independent desert-weavers did try to provide cheaper coal, but the competition was quickly *silenced*. Southern kings 
 
 ## Overseer
 
