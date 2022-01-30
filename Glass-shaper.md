@@ -1,0 +1,1 @@
+Glass-shaper is a subrole of [[Night-watcher]]

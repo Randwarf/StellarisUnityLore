@@ -7,8 +7,12 @@
         "id": "6ac523b2128c3848",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Glass-shaper.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glass-shaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
+    "Glass-shaper.md",
     "Kwerdan Lore/Kwerdan Elderships.md",
-    "Kwerdan Lore/Holy Oases.md",
-    "Kwerdan Lore/Desert-Weavers.md",
-    "Kwerdan Lore/Algae Wars.md",
-    "Kwerdan Lore/Historical Kwerdans/Subata.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md",
-    "Kwerdan Lore/Orbican.md",
-    "Kwerdan Lore/Wandering Elders.md"
+    "Ne’kuma.md",
+    "Species/Kwerdan.md",
+    "Kwerdan Lore/Wandering Elders.md",
+    "Kwerdan Lore/Steam engine.md",
+    "Kwerdan Lore/Self-Seeding.md",
+    "Kwerdan Lore/Sa'lah.md",
+    "Kwerdan Lore/Orbican.md"
   ]
 }
