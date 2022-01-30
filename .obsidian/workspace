@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glass-shaper.md",
+            "file": "Kwerdan Lore/Kwerdan Elderships.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glass-shaper.md",
+                "file": "Kwerdan Lore/Kwerdan Elderships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
-    "Glass-shaper.md",
     "Kwerdan Lore/Kwerdan Elderships.md",
+    "Kwerdan Lore/Night-watcher.md",
+    "Kwerdan Lore/Glass-shaper.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md",
     "Ne’kuma.md",
     "Species/Kwerdan.md",
     "Kwerdan Lore/Wandering Elders.md",
     "Kwerdan Lore/Steam engine.md",
     "Kwerdan Lore/Self-Seeding.md",
-    "Kwerdan Lore/Sa'lah.md",
-    "Kwerdan Lore/Orbican.md"
+    "Kwerdan Lore/Sa'lah.md"
   ]
 }
