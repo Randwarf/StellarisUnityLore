@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Glass-shaper.md",
+            "file": "Kwerdan Lore/Night-watcher.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Glass-shaper.md",
+                "file": "Kwerdan Lore/Night-watcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
-    "Kwerdan Lore/Glass-shaper.md",
-    "Kwerdan Lore/Desert-Weavers.md",
-    "Kwerdan Lore/Kwerdan Elderships.md",
     "Kwerdan Lore/Night-watcher.md",
+    "Kwerdan Lore/Desert-Weavers.md",
+    "Kwerdan Lore/Glass-shaper.md",
+    "Kwerdan Lore/Kwerdan Elderships.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md",
     "Ne’kuma.md",
     "Species/Kwerdan.md",

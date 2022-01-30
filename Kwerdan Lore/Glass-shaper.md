@@ -2,6 +2,4 @@ Initially glass-shaper was a sub role of [[Night-watcher|Night-watchers]]. They 
 
 These glass-shaper guilds pushed for strict standards regarding what can be considered a professional work of glass worthy of selling to the [[Desert-Weavers]] - the produced items were supposed to contain intricate designs while maintaining the structural integrity. After all, anyone smart enough to light a fire was able to mould their own tools, but only true professionals could make them both strong and beautiful.
 
-When it came to jewellery 
-
-Nowadays glass-shaper doesn't necessary mean the craftsman deal with glass
+Nowadays glass-shaper doesn't necessary mean the craftsman deals with glass products, it could be anything from plastic and electronics to gems and alloys. Nevertheless, the same high standards of quality have been preserved.
