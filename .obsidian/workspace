@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Religions & Ideologies/Joneel.md",
+            "file": "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Religions & Ideologies/Joneel.md",
+                "file": "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
+    "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
     "Kwerdan Lore/Religions & Ideologies/Joneel.md",
     "Kwerdan Lore/Religions & Ideologies/Greel.md",
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
@@ -97,7 +98,6 @@
     "Kwerdan Lore/Self-Seeding.md",
     "Ne’kuma.md",
     "Species/Kwerdan.md",
-    "Kwerdan Lore/Wandering Elders.md",
-    "Kwerdan Lore/Steam engine.md"
+    "Kwerdan Lore/Wandering Elders.md"
   ]
 }
