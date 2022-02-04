@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Kwerdan.md",
+            "file": "Ne’kuma.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Kwerdan.md",
+                "file": "Ne’kuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6ac523b2128c3848",
   "lastOpenFiles": [
+    "Ne’kuma.md",
     "Species/Kwerdan.md",
     "Kwerdan Lore/Wandering Elders.md",
     "Kwerdan Lore/Steam engine.md",
@@ -97,7 +98,6 @@
     "Kwerdan Lore/Sa'lah.md",
     "Kwerdan Lore/Orbican.md",
     "Kwerdan Lore/Nobility.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
-    "Kwerdan Lore/Night-watcher.md"
+    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md"
   ]
 }
