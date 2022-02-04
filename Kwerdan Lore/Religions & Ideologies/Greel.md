@@ -7,3 +7,6 @@ The deities in Greel are numerous and can embody anything from mountains to dise
 ***
 
 Greel was particularly common in the Pilklands and surrounding regions. It has experience a short revival in recent years though its more traditional elements have been 'rounded off', so to speak.
+
+***
+Namelist - Fungoid 2
