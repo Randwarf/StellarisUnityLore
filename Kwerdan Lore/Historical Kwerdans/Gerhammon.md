@@ -2,4 +2,6 @@ Generally considered the first King of the [[United Kingdom of Kal'vah|United Ki
 
 Proclaiming an ideology - Kal'vah - that combined the previously ancestor-focused Joneel and Greel folk religions with the newly merging martial traditions of the colonialist period, Gerhammon [[Kwerdan Senicide|executed their parents]] for moral weakness and waged war against their neighbours. 
 
-While Gerhammon would never live to see United Kingdom at its peak they oversaw the creation of a regime that would last a 
+While Gerhammon would never live to see United Kingdom at its peak they oversaw the creation of a regime that would span the planet. 
+
+They were executed by one of their progeny, who was in turn executed by one of their siblings.
