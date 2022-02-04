@@ -1,1 +1,1 @@
-Generally considered the first King of the [[United Kingdom of Kal'vah|United Kingdom of Kal'vah]]. Gerhammon was raised as a prince in the era of the declining aristocracy. After spending a term or two in the 
+Generally considered the first King of the [[United Kingdom of Kal'vah|United Kingdom of Kal'vah]]. Gerhammon was raised as a prince in the era of the declining aristocracy. After spending a term or two in their parent's colonisation efforts in the [[Natives of Sa'lah|Sa'lah Isles]] Gerhammon returned to a much diminished home - or so they proclaimed.
