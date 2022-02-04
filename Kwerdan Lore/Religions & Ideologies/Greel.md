@@ -1,0 +1,1 @@
+A polytheistic folk religion that imagined the various forces of nature as 
