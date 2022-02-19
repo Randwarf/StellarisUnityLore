@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ac523b2128c3848",
+        "id": "182fdb70c19e8099",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Ne'kuma timeline.md",
+            "file": "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "acc4833b8a5cb3f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Ne'kuma timeline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ac523b2128c3848",
+  "active": "acc4833b8a5cb3f7",
   "lastOpenFiles": [
-    "Kwerdan Lore/Ne'kuma timeline.md",
-    "Kwerdan Lore/Auldier.md",
-    "Kwerdan Lore/Sa'lah.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
-    "Kwerdan Lore/Algae Wars.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md",
-    "Kwerdan Lore/Orbican.md",
+    "conflict-files-obsidian-git.md",
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
-    "Kwerdan Lore/Historical Kwerdans/Subata.md",
-    "Kwerdan Lore/Historical Kwerdans/Gerhammon.md"
+    "Kwerdan Lore/Historical Kwerdans/Gerhammon.md",
+    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
+    "Kwerdan Lore/Auldier.md",
+    "Kwerdan Lore/Algae Wars.md",
+    "Kwerdan Lore/Sa'lah.md",
+    "Kwerdan Lore/Ne'kuma timeline.md",
+    "Kwerdan Lore/Desert-Weavers.md",
+    "Kwerdan Lore/Orbican.md"
   ]
 }

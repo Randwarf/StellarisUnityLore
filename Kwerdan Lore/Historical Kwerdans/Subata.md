@@ -1,4 +1,4 @@
-Subata was a [[Kwerdan]] [[Desert-Weavers|desert-weaver]] that later became a trade guild leader and would continue serving [[Federation of Desert-Weavers]] for multiple terms as an Overseer
+Subata (1680-1840) was a [[Kwerdan]] [[Desert-Weavers|desert-weaver]] that later became a trade guild leader and would continue serving [[Federation of Desert-Weavers]] for multiple terms as an Overseer
 # Early life
 Subata was grown in the kingdom of Baltabal. Their parents were lowly shopkeepers in the capital. After their seedlings came of age, they gave each of them a cart of goods and let them make their own fortune.
 

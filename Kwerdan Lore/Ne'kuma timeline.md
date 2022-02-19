@@ -1,1 +1,17 @@
-- 2000 - Begining of "The sleepless nights"
+- 1670's - Subata is born
+- 1690's - Invention of the steam engine
+- 1700's - Subata unites the federation
+- 1820's - Subata retires
+- 1840's - Subata dies
+- 1900's - Algae wars, Sa'lah under occupation
+- 1910's - slave slang begins forming
+- 1920's - kwerdans invent internet to ease the communication between colonies
+- 1925's - underground language is created
+- 1955's - kwerdan youth grows up with online newspeak, they sow the seeds of rebellion
+- 1960's - localised guerrilla warfare
+- 1965's - independent resistance lands begin supporting rebellions across the globe
+- 1980's - Federation falls
+- 1995's - kingdom falls
+- 2000's - Beginning of "The 300 sleepless nights"
+- 2050's - Sleepless nights end
+- 2200's - Space age
