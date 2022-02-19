@@ -2,4 +2,7 @@ The wheels of the carriage dug a deep furrow into the road as it ferried its pas
 
 Baali shook as they fought off the numbness in their limbs, not daring to give Waqo the chance to condescend to them again. It was unfair of Baali, they knew, but the elderly priest never missed a chance to offer some sage wisdom, straight from the proverbial glass book. Baali snuck a guilty look at their senior and was gratified to see that they were doing the same thing. While their carriage was well lit, travelling this far east had hastened night fall by tens of hours.
 
-The day was old when Baali reached Oyaton. Already a chill had set into the air - this far from the coast the nights grew cold indeed. At the wa
+The day was old when Baali reached Oyaton. Already a chill had set into the air - this far from the coast the nights grew cold indeed. 
+
+"When in Pilk, gorge yourself on "
+
