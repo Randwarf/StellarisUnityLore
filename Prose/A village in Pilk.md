@@ -2,7 +2,8 @@ The wheels of the carriage dug a deep furrow into the road as it ferried its pas
 
 Baali shook as they fought off the numbness in their limbs, not daring to give Waqo the chance to condescend to them again. It was unfair of Baali, they knew, but the elderly priest never missed a chance to offer some sage wisdom, straight from the proverbial glass book. Baali snuck a guilty look at their senior and was gratified to see that they were doing the same thing. While their carriage was well lit, travelling this far east had hastened night fall by tens of hours.
 
-The day was old when Baali reached Oyaton. Already a chill had set into the air - this far from the coast the nights grew cold indeed. 
+The day was old when Baali's carriage reached Oyaton. Already a chill had set into the air - this far from the coast the nights grew cold indeed. 
 
-"When in Pilk, gorge yourself on "
+"When in Pilk, gorge yourself on Orbican sinew," Waqo told them. "a n'orb or two will last you the entire night."
 
+After introducing themselves to the stationmaster they made their way to the Landlord who had been so kind as to offer their hospitality. For their first journey to the Pilklands Baali had expected to see more red-orbed folk but their host's pustules were almost as green as Baali's own. Their host - 
