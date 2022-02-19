@@ -1,4 +1,4 @@
-3One of the oldest religions on [[Ne’kuma]]. Joneel preaches that Ne'kuma was created from primordial chaos from which the masterful heavenly crafter Joneel assembled the continents and mountains and ancient migratory forests before crafting the first Kwerdans out of magical glass and writing their laws in a glass book. The book shattered but was reassembled into a more imperfect form after Joneel departed into the reincarnation cycle. 
+One of the oldest religions on [[Ne’kuma]]. Joneel preaches that Ne'kuma was created from primordial chaos from which the masterful heavenly crafter Joneel assembled the continents and mountains and ancient migratory forests before crafting the first Kwerdans out of magical glass and writing their laws in a glass book. The book shattered but was reassembled into a more imperfect form after Joneel departed into the reincarnation cycle. 
 
 Long lineages - where one can trace their ancestors back at least five generations - are considered especially blessed. Joneelian dynasties take pride in their genealogies.
 
