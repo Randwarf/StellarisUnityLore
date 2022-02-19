@@ -1,1 +1,1 @@
-Auldier is species of algae native to [[Sa'lah]]. 
+Auldier is species of algae native to [[Sa'lah]]. It is highly sought-after by [[Kwerdan]] populace due to its 
