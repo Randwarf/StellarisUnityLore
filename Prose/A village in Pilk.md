@@ -1,0 +1,1 @@
+The day was old when Baali reached Oyaton. Already a chill had set into the air - this far from the coast the nights grew cold indeed. 
