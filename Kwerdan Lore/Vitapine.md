@@ -1,0 +1,1 @@
+Drug manufactured from [[Auldier]]. It is known to extend the lifespan of [[Kwerdan|Kwerdans]] and cure otherwise terminal diseases.
