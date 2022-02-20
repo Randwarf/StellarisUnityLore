@@ -4,4 +4,4 @@ Auldier is species of algae native to the region of [[Sa'lah]]. It can not be gr
 
 Auldier is consumed by mashing it up into a fine paste and either applying to one's bark or diluting with water and soaking one's roots in it. This has the effects of slightly increasing regenerative ability, slowing down aging process, and providing Kwerdan organism with micronutrients otherwise not readily available. Many royal courts have also incorporated dried out auldier into their recipes, often making it more of a luxurious spice rather than a medicinal herb.
 
-However, auldier would only gain the real notoriety in the modern era, when kwerdan scientists would finally succeed in extracting the active chemical responsible for heightened regeneration, thus creating concentrated drug capable of increasing one's lifespan and curing many deadly diseases.
+However, auldier would only gain the real notoriety in the modern era, when kwerdan scientists would finally succeed in extracting the active chemical responsible for heightened regeneration, thus creating [[|concentrated drug]] capable of increasing one's lifespan and curing many deadly diseases.
