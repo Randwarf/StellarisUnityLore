@@ -8,7 +8,7 @@ While far from the ideal of the modern United Kwerdans, and highly variable acro
 # Decline of Nobility
 As trade flowed between the [[Federation of Desert-Weavers|Desert Weaving Traders]] in the early steam age through the many empires and kingdoms of the Kwerdans, the firm social stratification became more malleable. A new class of Desert Weavers formed, traders and engineers, more able to exploit the labour of the the peasantry to their own ends than via traditional methods. 
 # Kul-Yterd Revolution
-In the fast-growing city state of Kal'vah the great princeling Gerhammon decried the moral corruption of their forebears and slew their parents. As their parents had been in good relations with the neighbouring cities war followed. Soon, Gerhammon had 'defensively' conquered a good portion of the Sufete region and began encroaching on the Pilkish lands soon after.
+In the fast-growing city state of Kal'vah the great princeling [[Gerhammon]] decried the moral corruption of their forebears and slew their parents. As their parents had been in good relations with the neighbouring cities war followed. Soon, Gerhammon had 'defensively' conquered a good portion of the Sufete region and began encroaching on the Pilkish lands soon after.
 
 By the end of Gerhammon's life their city state's territories had swelled to the cover an eighth of the world's habitable land. Each former city state was controlled by Lords selected from their own self-seedings.
 
