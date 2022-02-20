@@ -1,6 +1,6 @@
 Auldier is species of algae native to the region of [[Sa'lah]]. It can not be grown in other areas of Ne'kuma due to the plant being highly needy. This has also made artificial cultivation almost impossible. Auldier is highly sought-after by [[Kwerdan]] populace due to its unique medical properties and specific flavour profile.
 
-[[Desert-Weavers]] have made fortune selling this particular plant to both the [[United Kingdom of Kal'vah]] nobles and [[Federation of Desert-Weavers]] trade-lords, which consequently would spark [[Algae Wars]].
+[[Desert-Weavers]] have made fortune selling this particular plant to both the [[United Kingdom of Kal'vah]] nobles and [[Federation of Desert-Weavers]] trade-lords, which consequently would spark [[Algae War]].
 
 Auldier is consumed by mashing it up into a fine paste and either applying to one's bark or diluting with water and soaking one's roots in it. This has the effects of slightly increasing regenerative ability, slowing down aging process, and providing Kwerdan organism with micronutrients otherwise not readily available. Many royal courts have also incorporated dried out auldier into their recipes, often making it more of a luxurious spice rather than a medicinal herb.
 

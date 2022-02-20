@@ -1,4 +1,4 @@
-[[Kwerdan]] federation that governed southern hemisphere of [[Ne’kuma]]. Was an important player in [[Algae Wars]].
+[[Kwerdan]] federation that governed southern hemisphere of [[Ne’kuma]]. Was an important player in [[Algae War]].
 
 # Origins
 Federation of [[Desert-Weavers]] began as a humble nameless trade guild. It made little to no profit during the first few generations of it's existence, but the idea of banding together into one centralised guild was deemed vital by many independent desert-weavers.
