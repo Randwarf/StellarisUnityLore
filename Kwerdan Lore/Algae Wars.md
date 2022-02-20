@@ -1,5 +1,5 @@
 # Build-up period
-[[Auldier]] was considered to be the spice of gods for many centuries before the modern era. But it was never seen 
+For many centuries mainland kwerdan population deemed [[Sa'lah]] inhospitable and 
 # Wartime
 
 # Post-war period
