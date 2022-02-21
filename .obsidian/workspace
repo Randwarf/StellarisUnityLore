@@ -7,8 +7,12 @@
         "id": "11fd5f95bf5e9251",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Prose/A village in Pilk.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prose/A village in Pilk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Prose/A village in Pilk.md",
+    "Kwerdan Lore/Wandering Elders.md",
+    "Kwerdan Lore/Vitapine.md",
+    "Kwerdan Lore/Kwerdan Senicide.md",
     "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
     "Kwerdan Lore/Algae War.md",
-    "Kwerdan Lore/Vitapine.md",
     "Nations/Unified Kwerdanity.md",
     "Kwerdan Lore/Auldier.md",
     "Kwerdan Lore/Ne'kuma timeline.md",
-    "Kwerdan Lore/Historical Kwerdans/Gerhammon.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
-    "conflict-files-obsidian-git.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md"
+    "Kwerdan Lore/Historical Kwerdans/Gerhammon.md"
   ]
 }
