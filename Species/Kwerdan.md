@@ -14,3 +14,5 @@ Kwerdans are species, native to the planet of [[Ne’kuma]]
 
 Most prominant Kwerdan civilisation began accidentally - long child-raising period combined with multiple consecutive mating seasons made elders settle down for longer than they were used to. This, of course, led to bigger than usual herds, thus [[Kwerdan Elderships]] became ubiquitous. 
 
+Recent archaeological discoveries point to the existe
+
