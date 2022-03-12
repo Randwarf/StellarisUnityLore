@@ -1,6 +1,10 @@
+- 1640s Beginning of colonial period for the Sufete city states.   - 1762 - Baal concordat declares war, maybe with some funding from the federation. - 1770 - Kal'vah ideology has solidified - eugenics, colonialism etc
 - 1670's - Subata is born
 - 1690's - Invention of the steam engine
 - 1700's - Subata unites the federation
+- 1750 - Gerhammon commits parenticide
+- 1751 - Sufete wars
+- 1762 - Kal'Vah annexes Pilkland officially
 - 1820's - Subata retires
 - 1840's - Subata dies
 - 1900's - Algae wars, Sa'lah under occupation
