@@ -1,10 +1,13 @@
-- 1640s Beginning of colonial period for the Sufete city states.   - 1762 - Baal concordat declares war, maybe with some funding from the federation. - 1770 - Kal'vah ideology has solidified - eugenics, colonialism etc
+- 1640s Beginning of colonial period for the Sufete city states.   
 - 1670's - Subata is born
 - 1690's - Invention of the steam engine
 - 1700's - Subata unites the federation
 - 1750 - Gerhammon commits parenticide
-- 1751 - Sufete wars
-- 1762 - Kal'Vah annexes Pilkland officially
+- 1751 - Sufete wars as Kal'vah wars and annexes its neighbours and replaces their 
+- 1766 - Kal'Vah annexes Pilkland officially, Baal Concordat declares war on the United Kingdom of Kal'Vah to pre-empt their anticipated territorial aquisitions.
+- 1770 - Kal'vah ideology solidifies as Gerhammon solidifies their policies into law. The result is quite concerned with the practice of Eugenics and Bulb Colour, as well as the 'Civilisation' of their colonial territories. 
+- 1800 - Gerhammon is killed by their progeny, who becomes the second High King of Kal'vah.
+- 1801 - The Third High King takes the throne.
 - 1820's - Subata retires
 - 1840's - Subata dies
 - 1900's - Algae wars, Sa'lah under occupation
