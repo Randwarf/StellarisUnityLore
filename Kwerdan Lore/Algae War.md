@@ -7,12 +7,12 @@ But only during the modern era did this species of algae become more than just a
 At this point and time majority of Sa'lah was already colonised by [[United Kingdom of Kal'vah]] with only very few major islands being under [[Federation of Desert-Weavers]] control. This meant that the Overseers were stripped away from one of the most vital modern day and only way to line up their pockets was via war.
 
 # Wartime
-This was was initiated by the [[Federation of Desert-Weavers]]. They struck a fast first blow and managed to take out multiple major islands before [[United Kingdom of Kal'vah]] responded and sent reinforcements. By the time they had arrived, Federation had already occupied half of the biggest Sa'lah island.
+This war was initiated by the [[Federation of Desert-Weavers]]. They struck a fast first blow and managed to take out multiple major islands before [[United Kingdom of Kal'vah]] responded and sent reinforcements. By the time they had arrived, Federation had already occupied half of the biggest Sa'lah island.
 
 Alas, Sa'lah climate made open warfare insufferable - neither side had the sufficient firepower to push through the enemy frontline in dense jungles, resulting with a bloody stale-mate. Many individual skirmishes have been fought over singular villages and even more Kwerdan soldiers have been slain for nothing.
 
 ~WARCRIMES OF SALAH BABY !!!????~
 
-By the end of this war, borders have barely changed. Thus peace treaty was signed and new borders were drawn - the lines cut entire towns in half and many families were separated from each other.
+By the end of this war, frontline has barely changed. Thus peace treaty was signed and new borders were drawn - the lines cut entire towns in half and many families were separated from each other. This would inevitably spark chaos in overseas territories.
 
 # Post-war period
