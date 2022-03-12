@@ -7,6 +7,8 @@ But only during the modern era did this species of algae become more than just a
 At this point and time majority of Sa'lah was already colonised by [[United Kingdom of Kal'vah]] with only very few major islands being under [[Federation of Desert-Weavers]] control. This meant that the Overseers were stripped away from one of the most vital modern day and only way to line up their pockets was via war.
 
 # Wartime
-Algae war was started 
+This was was initiated by the [[Federation of Desert-Weavers]]. They struck a fast first blow and managed to take out multiple major islands before [[United Kingdom of Kal'vah]] responded and sent reinforcements. By the time they had arrived, Federation had already occupied half of the biggest Sa'lah island.
+
+Alas, Sa'lah climate made open 
 
 # Post-war period
