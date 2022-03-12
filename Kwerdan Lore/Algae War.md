@@ -9,6 +9,10 @@ At this point and time majority of Sa'lah was already colonised by [[United King
 # Wartime
 This was was initiated by the [[Federation of Desert-Weavers]]. They struck a fast first blow and managed to take out multiple major islands before [[United Kingdom of Kal'vah]] responded and sent reinforcements. By the time they had arrived, Federation had already occupied half of the biggest Sa'lah island.
 
-Alas, Sa'lah climate made warfare insufferable - neither side had the sufficient firepower to push through the enemy frontline, resulting in 
+Alas, Sa'lah climate made open warfare insufferable - neither side had the sufficient firepower to push through the enemy frontline in dense jungles, resulting with a bloody stale-mate. Many individual skirmishes have been fought over singular villages and even more Kwerdan soldiers have been slain.
+
+~WARCRIMES OF SALAH BABY !!!????~
+
+
 
 # Post-war period

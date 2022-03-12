@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Miscellaneous.md",
+            "file": "Kwerdan Lore/Algae War.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "Kwerdan Lore/Algae War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
-    "Miscellaneous.md",
-    "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
-    "Kwerdan Lore/Ne'kuma timeline.md",
-    "Kwerdan Lore/Kwerdan Senicide.md",
-    "Ne’kuma.md",
     "Kwerdan Lore/Algae War.md",
-    "Species/Kwerdan.md",
+    "Kwerdan Lore/Ne'kuma timeline.md",
+    "Kwerdan Lore/Sa'lah.md",
+    "Kwerdan Lore/Kwerdan Senicide.md",
+    "Kwerdan Lore/Night-watcher.md",
+    "Kwerdan Lore/Nobility.md",
+    "Kwerdan Lore/Vitapine.md",
+    "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
     "Nations/Unified Kwerdanity.md",
-    "Kwerdan Lore/Religions & Ideologies/Greel.md",
-    "Kwerdan Lore/Historical Kwerdans/Gerhammon.md"
+    "Kwerdan Lore/Auldier.md"
   ]
 }
