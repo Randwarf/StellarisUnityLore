@@ -13,6 +13,6 @@ Alas, Sa'lah climate made open warfare insufferable - neither side had the suffi
 
 ~WARCRIMES OF SALAH BABY !!!????~
 
-At the end of the war 
+By the end of this war, borders have barely changed. Thus peace treaty was signed and new borders were drawn - the lines cut entire towns in half and many families were separated from each other.
 
 # Post-war period
