@@ -3,9 +3,9 @@
 - 1690's - Invention of the steam engine
 - 1700's - Subata unites the federation
 - 1750 - Gerhammon commits parenticide
-- 1751 - Sufete wars as Kal'vah wars and annexes its neighbours and replaces their 
-- 1766 - Kal'Vah annexes Pilkland officially, Baal Concordat declares war on the United Kingdom of Kal'Vah to pre-empt their anticipated territorial aquisitions.
-- 1770 - Kal'vah ideology solidifies as Gerhammon solidifies their policies into law. The result is quite concerned with the practice of Eugenics and Bulb Colour, as well as the 'Civilisation' of their colonial territories. 
+- 1752 - Sufete wars as Kal'vah annexes its neighbours and replaces their rulers with chosen marshalls.
+- 1766 - Kal'Vah annexes Pilkland officially, Baal Concordat declares war on the United Kingdom of Kal'Vah to pre-empt their anticipated territorial acquisitions.
+- 1770 - Kal'vah ideology solidifies as Gerhammon puts their policies into law. The result is quite concerned with the practice of Eugenics and Bulb Colour, as well as the 'Civilisation' of their colonial territories. 
 - 1800 - Gerhammon is killed by their progeny, who becomes the second High King of Kal'vah.
 - 1801 - The Third High King takes the throne.
 - 1820's - Subata retires
