@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Miscellaneous.md",
+            "file": "Kwerdan Lore/Glass-shaper.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "Kwerdan Lore/Glass-shaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Kwerdan Lore/Glass-shaper.md",
+    "Kwerdan Lore/Desert-Weavers.md",
+    "Kwerdan Lore/Ne'kuma timeline.md",
     "Miscellaneous.md",
     "Kwerdan Lore/Algae War.md",
-    "Kwerdan Lore/Ne'kuma timeline.md",
     "Kwerdan Lore/Sa'lah.md",
     "Kwerdan Lore/Kwerdan Senicide.md",
     "Kwerdan Lore/Night-watcher.md",
     "Kwerdan Lore/Nobility.md",
-    "Kwerdan Lore/Vitapine.md",
-    "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
-    "Nations/Unified Kwerdanity.md"
+    "Kwerdan Lore/Vitapine.md"
   ]
 }
