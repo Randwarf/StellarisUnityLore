@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Algae War.md",
+            "file": "Miscellaneous.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Algae War.md",
+                "file": "Miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Miscellaneous.md",
     "Kwerdan Lore/Algae War.md",
     "Kwerdan Lore/Ne'kuma timeline.md",
     "Kwerdan Lore/Sa'lah.md",
@@ -97,7 +98,6 @@
     "Kwerdan Lore/Nobility.md",
     "Kwerdan Lore/Vitapine.md",
     "Kwerdan Lore/Religions & Ideologies/Kal'vah.md",
-    "Nations/Unified Kwerdanity.md",
-    "Kwerdan Lore/Auldier.md"
+    "Nations/Unified Kwerdanity.md"
   ]
 }
