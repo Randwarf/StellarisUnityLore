@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Miscellaneous.md",
+            "file": "Kwerdan Lore/Ne'kuma timeline.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "Kwerdan Lore/Ne'kuma timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
-    "Miscellaneous.md",
-    "Kwerdan Lore/Algae War.md",
     "Kwerdan Lore/Ne'kuma timeline.md",
+    "Kwerdan Lore/Steam engine.md",
+    "Kwerdan Lore/Algae War.md",
     "Kwerdan Lore/Sa'lah.md",
     "Kwerdan Lore/Kwerdan Senicide.md",
     "Kwerdan Lore/Night-watcher.md",
