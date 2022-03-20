@@ -68,7 +68,12 @@ Threat Rating: Low. Currently the travel times involved render them a non threat
 ## Halcyon Dawn
 Fortunately or unfortunately separated from us by the Maunavi Collegium who generally practise a policy of closed borders, the Halcyon Dawn are a millitarily active power that boasts a supposed 'hundreds of thousands of years of history'. Whether this is true or not is unknown, but their species may very well have been in space in that time frame.
 
-They supposedly do not believe that those who do not defend themselves adequately deserve respect or mercy, but are also uninterested in trying to fight those weaker than them. While this stated philosophy of prioritising difficult challenges seems entirely self defeating for a martial civilisation they do seem to be skill 
+They supposedly do not believe that those who do not defend themselves adequately deserve respect or mercy, but are also uninterested in trying to fight those weaker than them. While this stated philosophy of prioritising difficult challenges seems entirely self defeating for a martial civilisation they do seem to be devoted warriors.
 
+Threat Rating: High. Their foreign policy aims have caught their neighbours in something of a trap. Either they grow strong and are warred upon, or are weak and should be punished accordingly.
 
+We recommend showing a strong front to these people, and keeping the Collegium between us and them. Should it be required we may need to funnel resources to the Collegium so that they can form a strong buffer state. For now we should build our strength and attempt to peacefully spread our utopian ideals.
+
+## Muutagan Merchant Guild
+Inhabiting the Koria system much like th
 
