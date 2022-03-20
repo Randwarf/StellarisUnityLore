@@ -54,7 +54,9 @@ We advise extreme caution when dealing with the Final Order, and to extensively 
 ## The Five Banner Consillidation
 Bordering Krash and Carnno, the majority Za'tan peoples of the Five Banner Consolidation appears to be some kind of 'pirate cabal'. The actual Trazone governments appear to be mostly ceremonial. We are unsure as to how this might affect their relationship with the highly informal Utopian Project goverments.
 
-One of their factions, the Flying Dragons, has established a minor port on Ne'kuma. For now it seems to be only dealing in legal - on Ne'kuma at least -  narcotics and other goods, but the intrinsic secrecy with which they conduct their desert weaving leads us to believe that they could already be 
+One of their factions, the Flying Dragons, has established a minor port on Ne'kuma. For now it seems to be only dealing in legal - on Ne'kuma at least -  narcotics and other goods, but the intrinsic secrecy with which they conduct their desert weaving leads us to believe that they could already be dealing in illegal goods without our knowing. They have also made efforts to gain insiders within our power structures, though the attempts have been so far clumsy owing to our current lack of inter-cultural exposure. As our peoples become more familiar with each other this is likely to change.
+
+Threat Level - Low, and High. If care is not taken, the Utopia Project could fall prey to the same corruption that has ensnared the Trazonese long ago and may start enforcing the same paradigms that our ancestors fought so hard to abolish. Any interactions with the Five Banners' Pirates should be strictly monitored for corruption. Other movements between our peoples, however, should be allowed so as to facilitate the spread of the utopian ideal and allow our citizens freedom of movement to what in the end is a remarkable people.
 
 
 
