@@ -52,7 +52,9 @@ Threat Rating: High. This is a highly militarised authoritarian state with techn
 We advise extreme caution when dealing with the Final Order, and to extensively fortify the Qamm, Romonox, Acculum and Sherakanda systems. We should also pursue a policy of friendly relations for now.
 
 ## The Five Banner Consillidation
-Bordering Krash and Carnno, the Five Banner Consillidation appears to be 
+Bordering Krash and Carnno, the majority Za'tan peoples of the Five Banner Consolidation appears to be some kind of 'pirate cabal'. The actual Trazone governments appear to be mostly ceremonial. We are unsure as to how this might affect their relationship with the highly informal Utopian Project goverments.
+
+One of their factions, the Flying Dragons, has established a minor port on Ne'kuma. For now it seems to be only dealing in legal - on Ne'kuma at least -  narcotics and other goods, but the intrinsic secrecy with which they conduct their desert weaving leads us to believe that they could already be 
 
 
 
