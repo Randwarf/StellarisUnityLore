@@ -29,4 +29,10 @@ Threat Rating: High. Their knowledge of physics, biology and engineering far out
 ## The Tiyanki
 First encountered in 2210 by Monarch of the Universe, the Tiyanki appear to be animalia capable of faster than light travel via purely organic methods. They graze on stellar matter and form large herds.
 
-Threat Rating: Minimal. The Tiyanki have been content to mostly ignore our vessels so it is advisable that we do the same for now. In the future, once we discover how they graze and fly through space, it may be necessary to begin preservation 
+Threat Rating: Minimal. The Tiyanki have been content to mostly ignore our vessels so it is advisable that we do the same for now. In the future, once we discover how they graze and fly through space, it may be necessary to begin preservation efforts.
+
+## Collegium of the Great Maunavi Academies
+We made first official contact with the Collegium in 2219. They were apparently unprepared to converse with 
+
+
+
