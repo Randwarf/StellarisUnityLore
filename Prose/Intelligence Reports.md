@@ -68,7 +68,7 @@ Threat Rating: Low. Currently the travel times involved render them a non threat
 ## Halcyon Dawn
 Fortunately or unfortunately separated from us by the Maunavi Collegium who generally practise a policy of closed borders, the Halcyon Dawn are a millitarily active power that boasts a supposed 'hundreds of thousands of years of history'. Whether this is true or not is unknown, but their species may very well have been in space in that time frame.
 
-They do not believe
+They supposedly do not believe that those who do not defend themselves adequately deserve respect or mercy, but are also uninterested in trying to fight those weaker than them. While this stated philosophy of prioritising difficult challenges seems entirely self defeating for a martial civilisation they do seem to be skill 
 
 
 
