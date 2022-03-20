@@ -75,5 +75,8 @@ Threat Rating: High. Their foreign policy aims have caught their neighbours in s
 We recommend showing a strong front to these people, and keeping the Collegium between us and them. Should it be required we may need to funnel resources to the Collegium so that they can form a strong buffer state. For now we should build our strength and attempt to peacefully spread our utopian ideals.
 
 ## Muutagan Merchant Guild
-Inhabiting the Koria system much like the 
+Inhabiting the Koria system, the Korian Muutagan Merchant Guild inhabit a space station orbiting that class B star. They offer their economic expertise in exchange for quantities of energy and other goods.
 
+Little is known as them, though they may be contemporaries of the 'Curator Order', possessing seemingly similar levels of technology and architectural sophistication.
+
+Threat Rating: Unknown. Once again, it is impossible to evaluate these people. Thankfully they seem willing to settle for peaceful trade at the moment.
