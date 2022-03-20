@@ -87,3 +87,10 @@ Threat Rating: Unknown. Once again, it is impossible to evaluate these people. T
 
 ## Riigan Commerce Exchange
 Another enclave, this one inhabited by 'Riggans', offers its services in the Samnivik system. At this point one has to wonder whether this is the final form of all space faring civilisations - isolated outposts that offer their services to the younger species. Certainly, the Collegium is halfway there.
+
+## Caloci Ascendancy
+Distant species of plantoid with rather unique societal structure. Our historical nations share many similarities with Caloci people, most notably - caste systems. And although modern Kwerdans no longer engage in such segregation, we welcome their dedication to look after their own people.
+
+Our diplomats have also managed to make a good first impression on Caloci leaders, resulting in Kwerdans getting invited to their grand games. They were rather entertaining and it also presented us a opportunity to spread our glass goods.
+ 
+Threat Rating: Low. As long as Caloci don't threaten Kwerdan way of life, it is rather likely we will form cordial relationships. Gifts will continue to be sent to Caloci lands for foreseeable future
