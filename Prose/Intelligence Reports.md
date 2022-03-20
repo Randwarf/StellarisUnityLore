@@ -44,6 +44,8 @@ Threat Rating: The Collegium seems to possess technological and military power c
 
 We advise our ambassadors to continue sending cultural artefacts their way. While they refused our initial offers, our crafters are employing increasingly sophisticated methods that will most likely intrigue these learned people. The more our peoples come to know each other the more they may come to understand our Utopian Ideals. To borrow a word from my progeny's animated pictures, they may have a love/disgust attitude. We believe that they would be a trustworthy neighbour or even ally as long as we respect their sovereignty.
 
+For now they also offer a good border between us and the militarily aggressive Halycon Dawn. Should the Dawn declare war on the Collegium we should covertly offer supplies to the Collegium.
+
 ## The Final Order of Osiris
 Little is known about this civilisation. They have been difficult to evaluate, perhaps owing to the high number of State Enforcers in their borders.
 

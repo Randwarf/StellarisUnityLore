@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kwerdan Lore/Religions & Ideologies/Joneel.md",
+            "file": "Prose/Intelligence Reports.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwerdan Lore/Religions & Ideologies/Joneel.md",
+                "file": "Prose/Intelligence Reports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Prose/Intelligence Reports.md",
     "Kwerdan Lore/Religions & Ideologies/Joneel.md",
     "Kwerdan Lore/Religions & Ideologies/Greel.md",
-    "Prose/Intelligence Reports.md",
     "Kwerdan Lore/Ne'kuma timeline.md",
     "Kwerdan Lore/Steam engine.md",
     "Kwerdan Lore/Algae War.md",
