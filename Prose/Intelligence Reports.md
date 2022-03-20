@@ -66,6 +66,9 @@ Due to a freak event in the subspace continuum assisted by ancient alien technol
 Threat Rating: Low. Currently the travel times involved render them a non threat. If this changes in the future then we expect that our peoples will come into conflict unless a policy of appeasement is followed.
 
 ## Halcyon Dawn
-Fortunately or unfortunately separated from us by the Maunavi Collegium who generally practise a policy of closed borders, the Halcyon 
+Fortunately or unfortunately separated from us by the Maunavi Collegium who generally practise a policy of closed borders, the Halcyon Dawn are a millitarily active power that boasts a supposed 'hundreds of thousands of years of history'. Whether this is true or not is unknown, but their species may very well have been in space in that time frame.
+
+They do not believe
+
 
 
