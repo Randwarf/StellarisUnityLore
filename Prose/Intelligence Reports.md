@@ -32,7 +32,14 @@ First encountered in 2210 by Monarch of the Universe, the Tiyanki appear to be a
 Threat Rating: Minimal. The Tiyanki have been content to mostly ignore our vessels so it is advisable that we do the same for now. In the future, once we discover how they graze and fly through space, it may be necessary to begin preservation efforts.
 
 ## Collegium of the Great Maunavi Academies
-We made first official contact with the Collegium in 2219. They were apparently unprepared to converse with 
+We made first official contact with the Collegium in 2219. They were apparently unprepared to converse with another sophont civilisation at this point, not believing them to be likely to exist.
+
+Observant Eshtart appears to currently represent the interests of the Collegium, though it is uncertain as to what degree of power this individual holds in their society.
+
+Overall, their society appears to be quite isolationist, and, dare we say it, xenophobic. They do not seem to want to make contact with outside civilisation, though recent telemetry indicates that they have had a few small scale conflicts with the Halycon Dawn so far. They hold learning and science in high esteem and appear to take pride in their long scholastic traditions which must have continued unbroken for quite some time.
+
+Threat Rating: The Collegium seems to possess technological power comparable to our own. Thus, any conflict would 
+
 
 
 
