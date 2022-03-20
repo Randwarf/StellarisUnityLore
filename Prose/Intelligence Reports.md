@@ -24,4 +24,9 @@ Threat Rating: Minimal. They appear to have been tragically genocided by the Gru
 ## The Curator Order
 The Curator Order reside in the Phiroza system. They are predominantly made up of Usanace. Their social structure resembles that of a Joneel monastery but rather than spiritual wisdom they instead sell guidance into research for vast amounts of energy.
 
-Threat Rating: unknown. Their knowle
+Threat Rating: High. Their knowledge of physics, biology and engineering far outstrips any known civilisation. It is imperative that they not be provoked in any way.
+
+## The Tiyanki
+First encountered in 2210 by Monarch of the Universe, the Tiyanki appear to be animalia capable of faster than light travel via purely organic methods. They graze on stellar matter and form large herds.
+
+Threat Rating: Minimal. The Tiyanki have been content to mostly ignore our vessels so it is advisable that we do the same for now. In the future, once we discover how they graze and fly through space, it may be necessary to begin preservation 
