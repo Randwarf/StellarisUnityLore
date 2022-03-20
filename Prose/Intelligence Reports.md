@@ -45,6 +45,14 @@ We advise our ambassadors to continue sending cultural artefacts their way. The 
 ## The Final Order of Osiris
 Little is known about this civilisation. They have been difficult to evaluate, perhaps owing to the high number of State Enforcers in their borders.
 
-They appear to follow what we can only describe as a 'might makes right' view somewhat reminiscent of Halcyon Dawn. Under their described philosophies self-determination appears to be less of a right and more something to be earned. They are incredibly resource-h
+They appear to follow what we can only describe as a 'might makes right' view somewhat reminiscent of Halcyon Dawn. Under their described philosophies self-determination appears to be less of a right and more something to be earned. They are incredibly resource-hungry, with a colonial policy reminiscent of the Kal'vahnist and Desert Weaver states.
+
+Threat Rating: High. This is a highly militarised authoritarian state with technology and might comparable to our own, if not higher. 
+
+We advise extreme caution when dealing with the Final Order, and to extensively fortify the Qamm, Romonox, Acculum and Sherakanda systems. We should also pursue a policy of friendly relations for now.
+
+
+
+
 
 
