@@ -8,9 +8,13 @@ Discovered in 2204 by the exploration crew of the Thunderer, the Sherakandan str
 Threat Rating: Minimal. The civilisation that created the Sherakandan structure appears to be long gone, either from merely this part of the galaxy or have become extinct due to some unknown cause.
 
 ## The Grunur
-We were first made aware of the Grunur when colonial surveryors in the Nietz system found traces of an ancient Grunur administrative complex on the moon of ~~Nietz 4~~ Nietz McNietzyface. Their records indicated that they had waged war on a plantoid species, perhaps similar to Kwerdans in size, in order to seize their planets and resources.
+We were first made aware of the Grunur in 2206 when colonial surveyors in the Nietz system found traces of an ancient Grunur administrative complex on the moon of ~~Nietz 4~~ Nietz McNietzyface. Their records indicated that they had waged war on a plantoid species, perhaps similar to Kwerdans in size, in order to seize their planets and resources.
 
 Further investigation into Peya 3a revealed it to be a former Baol colony that had been firebombed by the Grunur empire. Assuming that the depletion of the biosphere was instant across the planet, analysts have thus been able to determine that the Grunur-Baol conflict took place approximately 360,000 days ago.
 
+Threat Rating: Minimal to High. Depending on whether the Grunur still exist. If the Grunur are still in existence they would be a highly advanced imperial power. If they have died in the time since their conquest of Baol space then their threat rating is naturally minimal. We advise sending ambassadors to 
+
 ## The Baol
-Archaeological research done on Peya 3a revealed that the Baol were some form of eusocial organism, connected via psionic and neural pathways to cooperate together. They employed 'biological technology' extensively, which has unfortunately mostly decomposed since. Scientist 
+Archaeological research done on Peya 3a revealed that the Baol were some form of eusocial organism, connected via psionic and neural pathways to cooperate together. They employed 'biological technology' extensively, which has unfortunately mostly decomposed since. The prominent scientist Bodemelqart was able to discover the remains of a colony in the Bluehawk system that had been reduced to fragments and is currently investigating.
+
+Threat Rating: Minimal
