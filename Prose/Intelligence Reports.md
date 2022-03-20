@@ -38,7 +38,9 @@ Observant Eshtart appears to currently represent the interests of the Collegium,
 
 Overall, their society appears to be quite isolationist, and, dare we say it, xenophobic. They do not seem to want to make contact with outside civilisation, though recent telemetry indicates that they have had a few small scale conflicts with the Halycon Dawn so far. They hold learning and science in high esteem and appear to take pride in their long scholastic traditions which must have continued unbroken for quite some time.
 
-Threat Rating: The Collegium seems to possess technological power comparable to our own. Thus, any conflict would 
+Threat Rating: The Collegium seems to possess technological and military power comparable to our own. Thus, any conflict would be costly on both sides, morally and physically. Fortunately unlike their other neighbour that we know of they seem culturally less disposed to violence inflicted by the State unless it is only inflicted upon its own citizens.
+
+We advise our ambassadors to continue sending cultural artefacts their way. The more our peoples come to know each other the more they may come to understand our Utopian Ideals. To borrow a word from my progeny's animated pictures, they have a hotcold attitude. We believe that they would be a trustworthy neighbour or even ally as long as we respect their 
 
 
 
