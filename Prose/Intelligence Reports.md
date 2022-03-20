@@ -80,3 +80,6 @@ Inhabiting the Koria system, the Korian Muutagan Merchant Guild inhabit a space 
 Little is known as them, though they may be contemporaries of the 'Curator Order', possessing seemingly similar levels of technology and architectural sophistication.
 
 Threat Rating: Unknown. Once again, it is impossible to evaluate these people. Thankfully they seem willing to settle for peaceful trade at the moment.
+
+## Riigan Commerce Exchange
+Another enclave, this one inhabited by 'Riggans', offers its services in the Samnivik system. At this point one has to wonder whether this is the final form of all space faring civilisations - isolated outposts that offer their services to the younger species. Certainly, the Collegium is halfway there.
