@@ -26,6 +26,8 @@ The Curator Order reside in the Phiroza system. They are predominantly made up o
 
 Threat Rating: High. Their knowledge of physics, biology and engineering far outstrips any known civilisation. It is imperative that they not be provoked in any way.
 
+Note: we have purchased some 'coordinates' from the Curator Order. The results were quite intriguing.
+
 ## The Tiyanki
 First encountered in 2210 by Monarch of the Universe, the Tiyanki appear to be animalia capable of faster than light travel via purely organic methods. They graze on stellar matter and form large herds.
 
