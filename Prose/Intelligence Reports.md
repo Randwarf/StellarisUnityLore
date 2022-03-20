@@ -51,7 +51,8 @@ Threat Rating: High. This is a highly militarised authoritarian state with techn
 
 We advise extreme caution when dealing with the Final Order, and to extensively fortify the Qamm, Romonox, Acculum and Sherakanda systems. We should also pursue a policy of friendly relations for now.
 
-
+## The Five Banner Consillidation
+Bordering Krash and Carnno, the Five Banner Consillidation appears to be 
 
 
 
