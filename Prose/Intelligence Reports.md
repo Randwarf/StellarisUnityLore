@@ -40,8 +40,11 @@ Overall, their society appears to be quite isolationist, and, dare we say it, xe
 
 Threat Rating: The Collegium seems to possess technological and military power comparable to our own. Thus, any conflict would be costly on both sides, morally and physically. Fortunately unlike their other neighbour that we know of they seem culturally less disposed to violence inflicted by the State unless it is only inflicted upon its own citizens.
 
-We advise our ambassadors to continue sending cultural artefacts their way. The more our peoples come to know each other the more they may come to understand our Utopian Ideals. To borrow a word from my progeny's animated pictures, they have a hotcold attitude. We believe that they would be a trustworthy neighbour or even ally as long as we respect their 
+We advise our ambassadors to continue sending cultural artefacts their way. The more our peoples come to know each other the more they may come to understand our Utopian Ideals. To borrow a word from my progeny's animated pictures, they may have a love/disgust attitude. We believe that they would be a trustworthy neighbour or even ally as long as we respect their sovereignty.
 
+## The Final Order of Osiris
+Little is known about this civilisation. They have been difficult to evaluate, perhaps owing to the high number of State Enforcers in their borders.
 
+They appear to follow what we can only describe as a 'might makes right' view somewhat reminiscent of Halcyon Dawn. Under their described philosophies self-determination appears to be less of a right and more something to be earned. They are incredibly resource-h
 
 
