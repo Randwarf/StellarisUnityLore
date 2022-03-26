@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prose/Intelligence Reports.md",
+            "file": "Kwerdan Lore/Desert-Weavers.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prose/Intelligence Reports.md",
+                "file": "Kwerdan Lore/Desert-Weavers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Kwerdan Lore/Desert-Weavers.md",
     "Prose/Intelligence Reports.md",
     "conflict-files-obsidian-git.md",
     "Ne’kuma.md",
@@ -109,7 +110,6 @@
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md",
-    "Nations/Unified Kwerdanity.md",
-    "Kwerdan Lore/Glass-shaper.md"
+    "Nations/Unified Kwerdanity.md"
   ]
 }
