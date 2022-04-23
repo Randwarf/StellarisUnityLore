@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ne’kuma.md",
+            "file": "Species/Kwerdan.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svaric",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ne’kuma.md",
+                "file": "Species/Kwerdan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,13 +102,13 @@
   },
   "active": "11fd5f95bf5e9251",
   "lastOpenFiles": [
+    "Species/Kwerdan.md",
     "Ne’kuma.md",
     "Kwerdan Lore/Orbican.md",
     "Kwerdan Lore/Desert-Weavers.md",
     "Prose/Intelligence Reports.md",
     "conflict-files-obsidian-git.md",
     "Miscellaneous.md",
-    "Species/Kwerdan.md",
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Natives of Sa'lah.md",
     "Kwerdan Lore/Historical Kwerdan Nations/Federation of Desert-Weavers.md"
