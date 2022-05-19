@@ -7,8 +7,12 @@
         "id": "196b50b3f0716099",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Species/Kwerdan.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Species/Kwerdan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "196b50b3f0716099",
   "lastOpenFiles": [
+    "Species/Kwerdan.md",
     "Prose/Intelligence Reports.md",
     "Ne’kuma.md",
     "Miscellaneous.md",
@@ -92,7 +98,6 @@
     "Kwerdan Lore/Historical Kwerdan Nations/United Kingdom of Kal'vah.md",
     "Kwerdan Lore/Kwerdan Senicide.md",
     "Kwerdan Lore/Ne'kuma timeline.md",
-    "Kwerdan Lore/Night-watcher.md",
-    "Kwerdan Lore/Nobility.md"
+    "Kwerdan Lore/Night-watcher.md"
   ]
 }
